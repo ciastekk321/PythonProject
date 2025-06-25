@@ -86,8 +86,8 @@ def main():
 
     pred, proba = predict_text(model, mail, args.threshold)
     label = "Phishing Email" if pred == 1 else "Safe Email"
-    print(f"🔍 Predykcja: {label}")
-    print(f"📊 Prawdopodobieństwo phishingu: {proba:.2%}")
+    print(f"Predykcja: {label}")
+    print(f"Prawdopodobieństwo phishingu: {proba:.2%}")
 
 if __name__ == '__main__':
     main()
