@@ -64,7 +64,7 @@ def main():
         help="Plik tekstowy z mailami (po jednej wiadomości na linii)."
     )
     parser.add_argument(
-        '-T', '--threshold', type=float, default=0.85,
+        '-T', '--threshold', type=float, default=0.50,
         help="Próg prawdopodobieństwa do uznania za phishing."
     )
     args = parser.parse_args()
