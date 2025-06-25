@@ -1,3 +1,5 @@
+'''autorzy: Bartosz Ciastoń, Krystian Tokarczyk, Marcin Morawski, Kamil Deka, Maciej Tubis, Michał Boczoń, Eryk Kolibabka'''
+
 from __future__ import annotations
 import os, re, requests
 from pathlib import Path

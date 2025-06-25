@@ -1,3 +1,5 @@
+'''autorzy: Bartosz Ciastoń, Krystian Tokarczyk, Marcin Morawski, Kamil Deka, Maciej Tubis, Michał Boczoń, Eryk Kolibabka'''
+
 import argparse
 import sys
 from pathlib import Path
