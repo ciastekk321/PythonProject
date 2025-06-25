@@ -1,0 +1,82 @@
+From: Emily Roberts <emily.roberts@company.com>
+Subject: Reminder: Marketing Team Sync Tomorrow at 10 AM
+
+Hi Team,
+
+Just a friendly reminder that our weekly marketing sync is scheduled for tomorrow, June 26th, at 10:00 AM in Conference Room B.
+Please come prepared with your updates on the Q3 campaign performance and any blockers you’re facing.
+
+See you then!
+
+Best,
+Emily
+
+
+
+
+From: BestBuy <order-confirmation@bestbuy.com>
+Subject: Your BestBuy Order #BB123456789 Has Shipped
+
+Hello John,
+
+Good news—your order #BB123456789 has shipped!
+You can track your package here: https://www.bestbuy.com/track/BB123456789
+
+Estimated delivery: July 1, 2025.
+If you have any questions, reply to this email or call our support line at 1-888-BESTBUY.
+
+Thank you for shopping with us!
+
+Best regards,
+BestBuy Customer Care
+
+
+
+
+From: HR Benefits <hr.benefits@enterprise.com>
+Subject: Action Required: 2025 Benefits Enrollment
+
+Dear Sarah,
+
+Open enrollment for 2025 benefits opens on July 1st and closes on July 15th.
+Please log in to the Employee Portal to review your options and make your selections:
+https://portal.enterprise.com/benefits
+
+If you need assistance, feel free to contact the HR team at hr.support@enterprise.com.
+
+Warm regards,
+HR Benefits Team
+
+
+
+
+From: Airbnb <notifications@airbnb.com>
+Subject: How Was Your Stay at “City Center Loft”?
+
+Hi Michael,
+
+We hope you enjoyed your recent stay at the “City Center Loft.”
+Would you mind taking a moment to share your feedback? Your review helps both hosts and future guests.
+
+Leave a review here: https://www.airbnb.com/reviews/write/987654321
+
+Thanks for being a valued member of our community!
+
+Cheers,
+The Airbnb Team
+
+
+
+
+From: Dr. Anna Kowalska <reception@healthclinic.com>
+Subject: Appointment Confirmation – Dr. Kowalska on July 3rd
+
+Dear Mr. Thompson,
+
+This is a confirmation for your appointment with Dr. Anna Kowalska on Thursday, July 3rd, at 2:30 PM.
+Please arrive 10 minutes early and bring your insurance card.
+
+If you need to reschedule, call us at (123) 456-7890.
+
+Kind regards,
+Health Clinic Reception

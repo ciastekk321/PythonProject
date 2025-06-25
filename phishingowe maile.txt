@@ -1,0 +1,86 @@
+From: Bank of America <security@bankofamericaalerts.com>
+Subject: Immediate Action Required: Account Verification
+
+Dear Customer,
+
+We detected multiple failed login attempts to your Bank of America online banking.
+For your protection, please verify your account information within the next 12 hours:
+
+https://boa-secure-verify.com/login
+
+Failure to comply will result in temporary suspension of your account.
+
+Sincerely,
+Bank of America Security Team
+
+
+
+
+From: Amazon <orders@amazon-support.com>
+Subject: Problem with Your Recent Order #112-3456789-0123456
+
+Hello,
+
+We encountered an issue processing payment for your recent Amazon order.
+Please review and update your payment details immediately:
+
+https://amazon-payment-update.com
+
+If you do not update your information within 24 hours, your order will be canceled.
+
+Thank you for shopping with us,
+Amazon Customer Service
+
+
+
+
+From: Dropbox Team <no-reply@dropbox-storage.com>
+Subject: Warning: Storage Quota Exceeded
+
+Hi there,
+
+Your Dropbox account has exceeded its free storage limit.
+To avoid deletion of your files, please verify your account and upgrade your plan:
+
+https://dropbox-upgrade.com/verify
+
+Ignoring this warning will result in permanent removal of your data.
+
+Best regards,
+The Dropbox Team
+
+
+
+
+From: service@paypal-protect.com
+Subject: Your PayPal Account Has Been Limited
+
+Dear PayPal User,
+
+We have noticed suspicious activity on your account and have temporarily limited certain features.
+To restore full access, please verify your identity here:
+
+https://paypal-security-update.com/verify
+
+Failure to verify within 48 hours will result in permanent account restrictions.
+
+Thank you,
+PayPal Security Department
+
+
+
+
+From: Microsoft <account-security@microsoft365.com>
+Subject: Urgent: Confirm Your Microsoft 365 Subscription
+
+Dear Subscriber,
+
+We were unable to process the renewal for your Microsoft 365 subscription.
+Please confirm your payment details immediately to avoid service interruption:
+
+https://microsoft-subscription-update.com
+
+If you do not update within 24 hours, your account will be suspended.
+
+Regards,
+Microsoft Account Team
