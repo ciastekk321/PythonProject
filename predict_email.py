@@ -65,7 +65,7 @@ def main():
     )
     parser.add_argument(
         '-T', '--threshold', type=float, default=0.85,
-        help="Próg prawdopodobieństwa do uznania za phishing (domyślnie 0.5)."
+        help="Próg prawdopodobieństwa do uznania za phishing."
     )
     args = parser.parse_args()
 
